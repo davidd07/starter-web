@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    David Daoud 	razorfish@live.com.au
 
 # THANKS
 
